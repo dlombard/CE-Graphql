@@ -1,0 +1,5 @@
+{
+  //"plugins": ["react-relay"],
+  "plugins": ["lodash"],
+  "presets": ["es2015",  "stage-0"]
+}
